@@ -5,7 +5,7 @@
 
 # Mergaite
 
-_2-Mergaite projcet (26 group)_
+_2-Mergaite project (26 group)_
 
 This project is for educational porpuses only.
 
