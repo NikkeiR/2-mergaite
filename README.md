@@ -5,7 +5,7 @@
 
 # Mergaite
 
-_2-Mergaite projcet (26 group)_
+_2-Mergaite project (26 group)_
 
 This project is for educational porpuses only.
 
@@ -23,4 +23,4 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 ## Authors
 
-[Rimantas](https://github.com/NikkeiR)
+[Rolandas](https://github.com/NikkeiR)
