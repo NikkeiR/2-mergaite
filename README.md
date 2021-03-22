@@ -23,8 +23,4 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 ## Authors
 
-<<<<<<< HEAD
 [Rolandas](https://github.com/NikkeiR)
-=======
-[Rimantas](https://github.com/NikkeiR)
->>>>>>> f5d53d8604a3b9382e5a746fb597f6be0eb6aa13
