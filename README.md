@@ -1,6 +1,6 @@
 # Mergaite
 
-This project is for educational porpuses only.
+This project is for educational purposes only.
 
 Site published at https://nikkeir.github.io/2-mergaite/
 
